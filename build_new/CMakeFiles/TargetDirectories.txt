@@ -1,0 +1,8 @@
+C:/Users/Tomas/Desktop/Quadigi/build_new/CMakeFiles/Calculator.dir
+C:/Users/Tomas/Desktop/Quadigi/build_new/CMakeFiles/Experimental.dir
+C:/Users/Tomas/Desktop/Quadigi/build_new/CMakeFiles/Nightly.dir
+C:/Users/Tomas/Desktop/Quadigi/build_new/CMakeFiles/Continuous.dir
+C:/Users/Tomas/Desktop/Quadigi/build_new/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Tomas/Desktop/Quadigi/build_new/CMakeFiles/RUN_TESTS.dir
+C:/Users/Tomas/Desktop/Quadigi/build_new/CMakeFiles/ALL_BUILD.dir
+C:/Users/Tomas/Desktop/Quadigi/build_new/CMakeFiles/ZERO_CHECK.dir

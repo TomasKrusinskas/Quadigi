@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+C:/Users/Tomas/Desktop/Quadigi/tests/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+C:/Users/Tomas/Desktop/Quadigi/tests/build/_deps/googletest-subbuild/CMakeFiles/601ed750253bea47b15f2c2e35f4bed2/googletest-populate.rule
+C:/Users/Tomas/Desktop/Quadigi/tests/build/_deps/googletest-subbuild/CMakeFiles/1bc9cac37d7140df1662c30943237e1a/googletest-populate-complete.rule
+C:/Users/Tomas/Desktop/Quadigi/tests/build/_deps/googletest-subbuild/CMakeFiles/b1357986d5027f24aa8592354f98e7a7/googletest-populate-build.rule
+C:/Users/Tomas/Desktop/Quadigi/tests/build/_deps/googletest-subbuild/CMakeFiles/b1357986d5027f24aa8592354f98e7a7/googletest-populate-configure.rule
+C:/Users/Tomas/Desktop/Quadigi/tests/build/_deps/googletest-subbuild/CMakeFiles/b1357986d5027f24aa8592354f98e7a7/googletest-populate-download.rule
+C:/Users/Tomas/Desktop/Quadigi/tests/build/_deps/googletest-subbuild/CMakeFiles/b1357986d5027f24aa8592354f98e7a7/googletest-populate-install.rule
+C:/Users/Tomas/Desktop/Quadigi/tests/build/_deps/googletest-subbuild/CMakeFiles/b1357986d5027f24aa8592354f98e7a7/googletest-populate-mkdir.rule
+C:/Users/Tomas/Desktop/Quadigi/tests/build/_deps/googletest-subbuild/CMakeFiles/b1357986d5027f24aa8592354f98e7a7/googletest-populate-patch.rule
+C:/Users/Tomas/Desktop/Quadigi/tests/build/_deps/googletest-subbuild/CMakeFiles/b1357986d5027f24aa8592354f98e7a7/googletest-populate-test.rule
+C:/Users/Tomas/Desktop/Quadigi/tests/build/_deps/googletest-subbuild/CMakeFiles/b1357986d5027f24aa8592354f98e7a7/googletest-populate-update.rule

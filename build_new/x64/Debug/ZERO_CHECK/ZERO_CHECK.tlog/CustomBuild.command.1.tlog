@@ -1,0 +1,10 @@
+^C:\USERS\TOMAS\DESKTOP\QUADIGI\BUILD_NEW\CMAKEFILES\DA8CDAE450C627EC35DF435D1A47DD74\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Tomas/Desktop/Quadigi -BC:/Users/Tomas/Desktop/Quadigi/build_new --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Tomas/Desktop/Quadigi/build_new/Calculator.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

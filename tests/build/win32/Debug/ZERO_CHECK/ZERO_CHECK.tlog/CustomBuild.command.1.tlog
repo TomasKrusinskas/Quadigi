@@ -1,0 +1,10 @@
+^C:\USERS\TOMAS\DESKTOP\QUADIGI\TESTS\BUILD\CMAKEFILES\307B70596DA87719150DB1A70FB2AD88\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Tomas/Desktop/Quadigi/tests -BC:/Users/Tomas/Desktop/Quadigi/tests/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Tomas/Desktop/Quadigi/tests/build/QuadigiTests.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
